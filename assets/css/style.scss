@@ -3,6 +3,6 @@
 
 @import "{{ site.theme }}";
 
-.test {
-  background-color: #fff;
+body {
+  background: linear-gradient( 90deg, #02f15d 0%, #ffffff 20%);
 }
